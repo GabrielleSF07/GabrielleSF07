@@ -145,3 +145,9 @@ Senac | Concluído em 2026
 <img src="https://komarev.com/ghpvc/?username=GabrielleSF07&color=da70d6&style=flat-square&label=Visualizações+do+perfil" />
 
 </div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/GabrielleSF07/GabrielleSF07/output/github-snake.svg" alt="Snake animation" width="100%" />
+
+</div>
