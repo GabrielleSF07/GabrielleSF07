@@ -59,57 +59,6 @@ Também trabalho como **Desenvolvedora Web Freelancer**, criando sites instituci
 
 ---
 
-## Projetos em Destaque
-
-### Control Games
-
-Aplicação Full Stack desenvolvida em Java para gerenciamento de jogos, utilizando arquitetura MVC, API REST, operações CRUD e integração com MySQL por meio do JPA/Hibernate.
-
-**Tecnologias:** Java, MySQL, JPA/Hibernate, Maven e Git.
-
-### Cyphra
-
-Website desenvolvido para apresentação de serviços digitais, com foco em identidade visual, responsividade e experiência do usuário.
-
-**Tecnologias:** Astro, HTML, CSS, JavaScript e Bootstrap.
-
-[Visualizar projeto](https://cyphra-self.vercel.app/)
-
-### GAMA São Miguel
-
-Website institucional desenvolvido para uma organização de apoio e acolhimento no câncer de mama, apresentando seus projetos, ações e canais de contato.
-
-**Tecnologias:** React, JavaScript e Bootstrap.
-
-### Almeria Souza Massoterapeuta
-
-Website profissional desenvolvido para divulgação de serviços de massoterapia, apresentação dos atendimentos e contato com clientes.
-
-**Foco:** Desenvolvimento Web, responsividade e experiência do usuário.
-
----
-
-## Experiência Profissional
-
-### Desenvolvedora Front-end | TCM-SP
-**Julho de 2026 – Atualmente**
-
-- Desenvolvimento e manutenção de funcionalidades utilizando Vue.js.
-- Evolução e atualização do portal DataSP.
-- Implementação de componentes reutilizáveis.
-- Correção de bugs e melhorias de interface.
-- Versionamento de código utilizando Git.
-
-### Desenvolvedora Web Freelancer
-**Julho de 2026 – Atualmente**
-
-- Desenvolvimento de sites institucionais e landing pages.
-- Criação de interfaces responsivas com React, Next.js e Vue.js.
-- Implementação de melhorias de performance e SEO.
-- Publicação e manutenção de aplicações web.
-
----
-
 ## Formação Acadêmica
 
 **Análise e Desenvolvimento de Sistemas**  
