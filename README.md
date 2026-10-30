@@ -47,18 +47,6 @@ Também trabalho como **Desenvolvedora Web Freelancer**, criando sites instituci
 
 ---
 
-## Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielleSF07&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielleSF07&layout=compact&langs_count=8&theme=radical&hide_border=true" />
-
-</div>
-
----
-
 ## Formação Acadêmica
 
 **Análise e Desenvolvimento de Sistemas**  
