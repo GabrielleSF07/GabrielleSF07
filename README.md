@@ -20,7 +20,6 @@ Atuo no **Tribunal de Contas do Município de São Paulo (TCM-SP)**, contribuind
 Também trabalho como **Desenvolvedora Web Freelancer**, criando sites institucionais, landing pages e interfaces responsivas, sempre buscando unir tecnologia, design e experiência do usuário.
 
 - **Atualmente:** Desenvolvedora Front-end no TCM-SP e Freelancer.
-- **Estudando:** React, Next.js e TypeScript.
 - **Interesses:** Engenharia de Software e Desenvolvimento Web.
 - **Localização:** São Paulo, Brasil.
 - **Formação:** Análise e Desenvolvimento de Sistemas — UNIP.
